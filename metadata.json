@@ -1,0 +1,6 @@
+{
+  "name": "NOVA",
+  "description": "Neural Omni Virtual Agent — retro-futuristic AI operating system for your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

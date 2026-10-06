@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="tagline">Neural Omni Virtual Agent</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_standby">STANDBY</string>
+    <string name="status_kill_switch">KILL SWITCH</string>
+</resources>
